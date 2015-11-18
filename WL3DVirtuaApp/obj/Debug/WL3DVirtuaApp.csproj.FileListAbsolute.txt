@@ -1,0 +1,17 @@
+F:\yy\合肥关押中心\源码\3D模拟程序\WL3DVirtuaApp\WL3DVirtuaApp\bin\Debug\WL3DVirtuaApp.exe.config
+F:\yy\合肥关押中心\源码\3D模拟程序\WL3DVirtuaApp\WL3DVirtuaApp\bin\Debug\WL3DVirtuaApp.exe
+F:\yy\合肥关押中心\源码\3D模拟程序\WL3DVirtuaApp\WL3DVirtuaApp\bin\Debug\WL3DVirtuaApp.pdb
+F:\yy\合肥关押中心\源码\3D模拟程序\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.Form1.resources
+F:\yy\合肥关押中心\源码\3D模拟程序\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.Properties.Resources.resources
+F:\yy\合肥关押中心\源码\3D模拟程序\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.csproj.GenerateResource.Cache
+F:\yy\合肥关押中心\源码\3D模拟程序\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.exe
+F:\yy\合肥关押中心\源码\3D模拟程序\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.pdb
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\bin\Debug\WL3DVirtuaApp.exe.config
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.exe
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.pdb
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\bin\Debug\WL3DVirtuaApp.exe
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\bin\Debug\WL3DVirtuaApp.pdb
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.csprojResolveAssemblyReference.cache
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.Properties.Resources.resources
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.csproj.GenerateResource.Cache
+E:\WORK\Demo\WL3DVirtuaApp\WL3DVirtuaApp\obj\Debug\WL3DVirtuaApp.TCPServer.resources
